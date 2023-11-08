@@ -260,3 +260,14 @@ header a {
 	color: #fff;
 	background: url("../img/bg-list.jpg") no-repeat;
 }
+.form{
+	color: #000;
+	padding-left: 50px;
+	padding-top:10px;
+}
+.contact{
+	background: url("../img/bg-list.jpg") no-repeat;
+}
+.exampel{
+	background: url("../img/img1.jpg") no-repeat;
+}
